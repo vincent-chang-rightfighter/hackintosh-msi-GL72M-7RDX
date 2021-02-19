@@ -2,6 +2,9 @@
 
 #  MSI GL72M 7RDX ( Also work GL62M 7RDX ) Hackintosh Laptop
 
+This repository has been deprecated .
+The new repository for GL62m 7rdx is at [GL62M 7RDX](https://github.com/vincent-chang-rightfighter/GL62M-7RDX-Hackintosh)
+
 This is an OpenCore 0.6.6 install for MacOS Big Sur 11.2 . 
 
 This build is only for Big Sur, Windows 10 -> BOSD .
